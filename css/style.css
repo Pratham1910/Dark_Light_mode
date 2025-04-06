@@ -1,0 +1,39 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html body{
+    height: 100%;
+    width: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body.dark{
+    background-color: black;
+    color: white;
+}
+
+.main{
+    padding: 10px 20px;
+}
+
+.main h3{
+    margin-top: 20px;
+}
+
+.main_2{
+    padding: 10px 20px;
+}
+
+.main_2 h3{
+    margin-top: 20px;
+    border: 1px solid rgb(28, 209, 28);
+    padding: 20px 15px;
+}
+
+.dark2{
+    background-color: black;
+    color: rgb(89, 234, 91);
+}
