@@ -1,5 +1,4 @@
-
-
+# Dark and Light Theme Toggle
 
 
 This project implements a simple **Dark Mode / Light Mode toggle** using plain JavaScript. It allows toggling the entire page theme as well as a specific container within the page.
